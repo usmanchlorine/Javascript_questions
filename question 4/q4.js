@@ -1,0 +1,1 @@
+console.log("Albert Einstein once said, “the true sign of intelligence is not knowledge but imagination.”")
